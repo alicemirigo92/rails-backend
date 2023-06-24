@@ -33,12 +33,18 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Rails Backend <a name="about-project"></a>
+# 📖 Rails backend <a name="about-project"></a>
 
-> This is a simple app that fetches random greetings from an integrated rails backend.
+> Hello-Rails is a project which using rails for back-End of an application and display data coming from API.
+frontEnd Link(https://github.com/alicemirigo92/react-frontend.git)
+
+Rails API: http://127.0.0.1:3000/api/greetings
+link to your React app
+  Local:            http://localhost:3002
+  On Your Network:  http://192.168.0.103:3002
 
 ## 🛠 Built With <a name="built-with"></a>
- - Ruby on Rails
+ - rails
  - Postgresql
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -78,7 +84,7 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-- Clone this repository by writing `git clone https://github.com/alicemirigo92/rails-backend.git
+- Clone this repository by writing `git clone  https://github.com/alicemirigo92/rails-backend.git
 - Run `bundle install` to install the project's dependencies
 - Run  `npm install` to install the node dependencies
 - Add your database username and password and write `rails db:create` to create the database
@@ -167,7 +173,7 @@ rspec <relative path to the test file>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/alicemirigo92/rails-backend.git/issues).
+Feel free to check the [issues page]( https://github.com/alicemirigo92/rails-backend.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,7 +181,7 @@ Feel free to check the [issues page](https://github.com/alicemirigo92/rails-back
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project support it by adding a star at [https://github.com/alicemirigo92/rails-backend.git/stargazers](https://github.com/alicemirigo92/rails-backend.git/stargazers)
+> If you like this project support it by adding a star at [ https://github.com/alicemirigo92/rails-backend.git/stargazers]( https://github.com/alicemirigo92/rails-backend.git/stargazers)
 
 
 
